@@ -1,9 +1,3 @@
----
-Class  : Systems Programming
-Date   : 03/30/2016
-Author : Enes Kemal Ergin
-Subject: Chapter 4 - Pointers and Structures
----
 
 ## Pointers
 A pointer is a construct used to store an address of variable. We declare pointers using * (asterisk) symbol.
