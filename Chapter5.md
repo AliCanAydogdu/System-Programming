@@ -1,9 +1,3 @@
----
-Class  : Systems Programming
-Date   : 04/04/2016
-Author : Enes Kemal Ergin
-Subject: Chapter 5 - Input/Output
----
 
 To make things more interesting we could use get some input from somewhere and get some output to somewhere. There are several ways to make this input/output (I/O) interaction happens, typically through a keyboard and display. __File I/O__ involves interaction between __program__ and __storage system__, while __device I/O__ involves interaction between __program__ and __piece of hardware.__
 
