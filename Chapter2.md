@@ -1,10 +1,3 @@
----
-Class  : Systems Programming
-Date   : 01/31/2016
-Author : Enes Kemal Ergin
-Subject: Chapter 2 - Bits, Bytes, and Data Types
----
-
 
 ## Bit Models
 
