@@ -1,9 +1,3 @@
----
-Class  : Systems Programming
-Date   : 02/01/2016
-Author : Enes Kemal Ergin
-Subject: Chapter 3 - Arrays and Strings
----
 
 There are more data types in C; Arrays, Strings, Pointers, and Structures.
 
