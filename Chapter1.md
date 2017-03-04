@@ -1,9 +1,4 @@
----
-Class  : Systems Programming
-Date   : 01/20/2016
-Author : Enes Kemal Ergin
-Subject: Chapter 1 - Introduction
----
+
 
 # Introduction
 
