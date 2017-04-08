@@ -1,6 +1,4 @@
 
-	/* A review of the basic arithmetic operators in C.  (pg 37) */
-
 #include <stdio.h>
 
 int main()
