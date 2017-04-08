@@ -1,5 +1,4 @@
 
-	/* This program demonstrates right-shifting a negative integer
 		** so that the shifted-in bits are 1 instead of 0 (pg 62) */
 
 #include <stdio.h>
