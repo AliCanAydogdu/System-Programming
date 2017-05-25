@@ -1,5 +1,4 @@
 
-	/* This program shows basic array usage.
 	** Draw the memory map. (pgs 74-75) */
 
 #include <stdio.h>
