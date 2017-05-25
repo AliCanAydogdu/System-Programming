@@ -1,8 +1,7 @@
 
-	/*
-	** Demonstration of returning value from function call via pointer.
-	** (pgs 108-109)
-	*/
+	
+	// Demonstration of returning value from function call via pointer. (pgs 108-109)
+	
 
 #include <stdio.h>
 
