@@ -1,5 +1,4 @@
-
-	/* Code for problem 1 (pg 127) */
+//problem 1 (pg 127)
 
 #include <stdio.h>
 
